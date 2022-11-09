@@ -1,0 +1,3 @@
+name="hellow"
+
+print(name.upper())
